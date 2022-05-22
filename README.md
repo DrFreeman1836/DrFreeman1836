@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center">Привет, я <a target="_blank">Виктор</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Тут можно познакомиться с некоторыми моими работами 🇷🇺</h3>
 
 <!--
-**DrFreeman1836/DrFreeman1836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AgafonovViktor/AgafonovViktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
